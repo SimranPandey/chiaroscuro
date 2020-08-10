@@ -8,8 +8,8 @@
 ![image]
 ## TU LIKHTI H ?
 He: Tu likhti h? About what!!
-    Socha Bta du uski ki - 
-      Mai ankho ki nami aur toote saaz likhti hu,
+    Socha Bta du usko ki - 
+      Mai aankho ki nami aur toote saaz likhti hu,
       Mai halak ki baat aur ankahe ahsaas likhti hu,
       Mai khushi nhi ,mai dard hazaar likhti hu,
       Kher tum nhi samjhogy

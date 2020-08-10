@@ -5,8 +5,8 @@
 
 
 ```markdown
-![Image]
-### TU LIKHTI H ?
+![image]
+## TU LIKHTI H ?
 He: Tu likhti h? About what!!
     Socha Bta du uski ki - 
       Mai ankho ki nami aur toote saaz likhti hu,
